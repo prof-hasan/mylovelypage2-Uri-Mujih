@@ -1,0 +1,129 @@
+thead {
+    text-align:center;
+}
+table {
+    size: 1px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-collapse: collapse;
+    
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+    border: whitesmoke ;
+}
+thead{
+    font-size: 20px;
+}
+td, tr{
+    border: solid gray;
+}
+body {
+    background-image: url('Imgs/back.gif');
+        background-position: center; 
+        background-size: cover; 
+        background-repeat: no-repeat; 
+        height: 100%; 
+        width: 100%; 
+        overflow:auto; 
+
+}
+.suvivor{
+    float: right;
+    
+    margin-left: auto;
+    margin-right:auto;
+    height: 350px;
+   
+}
+#newtitle{
+
+    display: block;
+    
+    margin-right:auto;
+    height: 250px;
+    width: 450px;
+
+}
+p, td,h2,th{
+    color: whitesmoke;
+    padding: 20px;
+
+}
+p{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 20px;
+    font-size: 22px;
+}
+table p {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 20px;
+    font-size: 22px;
+    padding: 20px;
+}
+
+#table2 {
+    background-color: rgba(255, 255, 255, 0);
+}
+a:hover{
+    color:grey;
+}
+a{
+    color:whitesmoke;
+}
+h2{
+    color: Black;
+    text-shadow: 1px 1px 2px black, 0 0 1em Red, 0 0 0.2em Red;
+    font: 3.5em Optima;
+    margin-left: 150px;
+    margin-top: 15px;
+    
+}
+#k1{
+    color: lightgray;
+    text-shadow: 1px 1px 2px black, 0 0 1em brown, 0 0 0.2em rgb(92, 11, 11);
+    font: 3.5em Optima;
+}
+#k2{
+    color: lightgray;
+    text-shadow: 1px 1px 2px black, 0 0 1em Red, 0 0 0.2em rgb(190, 82, 82);
+    font: 3.5em Optima;
+}
+#k3{
+    color: lightgray;
+    text-shadow: 1px 1px 2px black, 0 0 1em yellow, 0 0 0.2em rgb(145, 145, 61);
+    font: 3.5em Optima;
+}
+#k4{
+    color: lightgray;
+    text-shadow: 1px 1px 2px black, 0 0 1em blueviolet, 0 0 0.2em rgb(132, 0, 255);
+    font: 3.5em Optima;
+}
+.k5{
+    color: lightgray;
+    text-shadow: 1px 1px 2px black, 0 0 1em green, 0 0 0.2em rgb(0, 49, 0);
+    font: 3.5em Optima;
+}
+.k6{
+    color: lightgray;
+    text-shadow: 1px 1px 2px black, 0 0 1em yellow, 0 0 0.2em yellowgreen;
+    font: 3.5em Optima;
+}
+h1{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 20px;
+    font-size: 60px;
+}
+footer{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    background-color: rgba(255, 255, 255, 20%);
+}
+#EasterEgg{
+    opacity: 20%;
+    width: 100px;
+}
